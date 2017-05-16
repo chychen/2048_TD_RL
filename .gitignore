@@ -1,3 +1,6 @@
+# trained weight
+*.weight
+
 # Prerequisites
 *.d
 
